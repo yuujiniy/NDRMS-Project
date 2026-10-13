@@ -108,4 +108,9 @@ https://github.com/seohyun3010/disaster-ai-system/tree/develop
 
 본 저장소는 개인 기여 내용을 설명하기 위한 자료이며, 원본 저장소에는 팀원들이 함께 개발한 코드가 포함되어 있습니다.
 
+## 9. 프로젝트 발표자료
+
+[NDRMS 프로젝트 최종 발표자료 보기](./NDRMS_Project_Presentation.pdf)
+
+본 자료는 KT AIVLE School 팀 프로젝트에서 공동 제작한 최종 발표자료입니다. 프로젝트의 기획 배경, 핵심 전략, 서비스 흐름 및 구현 방식을 확인할 수 있습니다.
 
